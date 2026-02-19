@@ -125,3 +125,8 @@ By exploring this project, you’ll understand how to:
 ## 🫶 Contributing
 
 Found a bug or want to add a feature? Feel free to open issues or pull requests!
+
+---
+
+## 📝 License
+This project is licensed under the MIT License.
