@@ -1,6 +1,6 @@
 # ☕ Coffee Shop Sales Analysis
 
-Welcome to the **Coffee Shop Sales Analysis** project — an analytics workflow built using **SQL (via DuckDB)** and **Python** to explore and extract insights from coffee shop transaction data. ([GitHub][1])
+Welcome to the **Coffee Shop Sales Analysis** project — an analytics workflow built using **SQL (via DuckDB)** and **Python** to explore and extract insights from coffee shop transaction data.
 
 ---
 
